@@ -12,14 +12,14 @@
     <boolean name="show_dialog_for_wv_on_add_or_edit_vitem" value="true" />
     <int name="core_stop_code" value="0" />
     <boolean name="onui_faselhd" value="true" />
-    <string name="avss_country">9</string>
+    <string name="avss_country">1</string>
     <int name="core_delay_count" value="0" />
     <boolean name="dont_show_again_wv_dialog" value="false" />
     <boolean name="wv_adding_seasons" value="false" />
     <int name="avss_year" value="2022" />
     <boolean name="auto_send_notifications" value="true" />
-    <long name="core_last_set_alarm_date" value="1667170002852" />
-    <string name="url_shahed">shahed4u.repair</string>
+    <long name="core_last_set_alarm_date" value="1668470983694" />
+    <string name="url_shahed">shaheed4u.click</string>
     <int name="avss_type" value="2" />
     <int name="last_selected_wv_dialog" value="7" />
     <boolean name="add_vitem_save_settings" value="true" />
@@ -29,14 +29,14 @@
     <boolean name="enable_save_mode_core" value="true" />
     <string name="selected_search_dialog">Moviz Land###Shahd4U###Cima4U###Akwam###TuTuk Cinema###MyCima</string>
     <int name="avss_state" value="2" />
-    <string name="core_last_vitem">احتيال</string>
+    <string name="core_last_vitem">شركة امي</string>
     <boolean name="wv_dialog_is_none" value="false" />
     <int name="avss_quality" value="2" />
     <boolean name="wv_dialog_phone_pc" value="true" />
     <int name="avss_part" value="1" />
-    <long name="core_last_start_check" value="1667169609616" />
+    <long name="core_last_start_check" value="1668470405551" />
     <string name="faselhd_cookie">cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150; __cfduid=d4e04c068b95411438bd2ec19bf65663a1582391080; _ga=GA1.2.721775836.1582391085; _gid=GA1.2.1022500378.1582391085; _gat_myTracker=1; _gat_gtag_UA_69332622_1=1; cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150</string>
-    <long name="core_last_vitem_date" value="1667169998622" />
+    <long name="core_last_vitem_date" value="1668470979092" />
     <int name="avss_p_control" value="2" />
     <boolean name="core_append" value="true" />
     <int name="avss_e_count" value="-1" />
@@ -52,11 +52,11 @@
     <boolean name="show_cat_on_start" value="true" />
     <string name="item_server_test_url">https://www.faselhd.top/video_player?uid=0&amp;vid=95265709c3b98c039945f541c5e76a8e&amp;img=https://img.scdn.to/thumb/95265709c3b98c039945f541c5e76a8e/large.jpg</string>
     <boolean name="wv_dialog_add_edit" value="true" />
-    <long name="last_sent_auto_send_noti" value="1667169612396" />
+    <long name="last_sent_auto_send_noti" value="1668275951369" />
     <string name="cima_club_cookies">__cfduid=de113e2647f0fbb547e9d484cd863a2e11587244637; __cfduid=de113e2647f0fbb547e9d484cd863a2e11587244637; cf_clearance=50110aa387f6457aa60345acfe4b2a6c93512c02-1587244700-0-150; _ga=GA1.2.1648834376.1587244703; _gid=GA1.2.1460729879.1587244703; _gat=1</string>
-    <long name="last_backup_check" value="1667003984827" />
+    <long name="last_backup_check" value="1668469856276" />
     <boolean name="core_down_alarm" value="false" />
-    <string name="avss_language">6</string>
-    <boolean name="wv_dialog_series_movie" value="false" />
+    <string name="avss_language">1</string>
+    <boolean name="wv_dialog_series_movie" value="true" />
     <boolean name="dont_show_dialog_after_add" value="true" />
 </map>
