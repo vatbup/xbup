@@ -4,7 +4,7 @@
     <boolean name="show_core_check_icon" value="true" />
     <int name="selected_episode_sound" value="2" />
     <boolean name="is_log_enabled" value="false" />
-    <int name="last_backup_check_result" value="2" />
+    <int name="last_backup_check_result" value="1" />
     <boolean name="quick_vitem_edit" value="false" />
     <boolean name="use_big_web_view" value="false" />
     <boolean name="auto_send_notifications_every_tick" value="true" />
@@ -12,13 +12,13 @@
     <boolean name="show_dialog_for_wv_on_add_or_edit_vitem" value="true" />
     <int name="core_stop_code" value="0" />
     <boolean name="onui_faselhd" value="true" />
-    <string name="avss_country">9</string>
+    <string name="avss_country">5</string>
     <int name="core_delay_count" value="0" />
     <boolean name="dont_show_again_wv_dialog" value="false" />
     <boolean name="wv_adding_seasons" value="false" />
     <int name="avss_year" value="2023" />
     <boolean name="auto_send_notifications" value="true" />
-    <long name="core_last_set_alarm_date" value="1691513222450" />
+    <long name="core_last_set_alarm_date" value="1692197164101" />
     <string name="url_shahed">shahid4uu.cam</string>
     <int name="avss_type" value="1" />
     <int name="last_selected_wv_dialog" value="7" />
@@ -28,20 +28,20 @@
     <boolean name="variations_seed_native_stored" value="true" />
     <boolean name="fasel_hd_sin_js" value="false" />
     <boolean name="enable_save_mode_core" value="true" />
-    <string name="selected_search_dialog">ArabSeed###Moviz Land###Akw###TuTuk Cinema###MyCima###Cima4U</string>
-    <int name="avss_state" value="2" />
-    <string name="core_last_vitem">The Blacklist</string>
+    <string name="selected_search_dialog">ArabSeed###Laroza###Brestig###Akw###MyCima</string>
+    <int name="avss_state" value="1" />
+    <string name="core_last_vitem">اقدار لاكشمي</string>
     <boolean name="wv_dialog_is_none" value="false" />
-    <int name="avss_quality" value="2" />
+    <int name="avss_quality" value="13" />
     <boolean name="wv_dialog_phone_pc" value="true" />
     <int name="avss_part" value="1" />
-    <long name="core_last_start_check" value="1691513080470" />
+    <long name="core_last_start_check" value="1692196822656" />
     <int name="core_pause_code" value="0" />
     <string name="faselhd_cookie">cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150; __cfduid=d4e04c068b95411438bd2ec19bf65663a1582391080; _ga=GA1.2.721775836.1582391085; _gid=GA1.2.1022500378.1582391085; _gat_myTracker=1; _gat_gtag_UA_69332622_1=1; cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150</string>
-    <long name="core_last_vitem_date" value="1691513219351" />
+    <long name="core_last_vitem_date" value="1692197157817" />
     <int name="avss_p_control" value="2" />
     <boolean name="core_append" value="true" />
-    <int name="avss_e_count" value="8" />
+    <int name="avss_e_count" value="0" />
     <int name="avss_duration" value="122" />
     <boolean name="show_ag_core_title" value="false" />
     <string name="item_server_test">faselhd.#@#Demox#@#1#@#4#@#65#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#0#@##@##@#https://shoffree.com/watch.php?MjAyMy9zaG8=#@#url.contains(&quot;.faselhdstream.com/stream/&quot;)##url.contains(&quot;.faselhd.cc/stream/&quot;)##url.contains(&quot;faseldom&quot;) &amp;&amp; url.contains(&quot;/stream/hls/&quot;)##url.contains(&quot;/stream/hls/&quot;)#@#1#@#1#@#0#@#</string>
@@ -54,12 +54,12 @@
     <boolean name="show_cat_on_start" value="true" />
     <string name="item_server_test_url">https://shoffree.com/embed/22958/1/episode</string>
     <boolean name="wv_dialog_add_edit" value="true" />
-    <long name="last_sent_auto_send_noti" value="1691509830053" />
+    <long name="last_sent_auto_send_noti" value="1692195372682" />
     <string name="cima_club_cookies">__cfduid=de113e2647f0fbb547e9d484cd863a2e11587244637; __cfduid=de113e2647f0fbb547e9d484cd863a2e11587244637; cf_clearance=50110aa387f6457aa60345acfe4b2a6c93512c02-1587244700-0-150; _ga=GA1.2.1648834376.1587244703; _gid=GA1.2.1460729879.1587244703; _gat=1</string>
-    <long name="last_backup_check" value="1691513810762" />
+    <long name="last_backup_check" value="1692073385399" />
     <boolean name="core_down_alarm" value="false" />
     <boolean name="is_check_movistar" value="false" />
-    <string name="avss_language">6</string>
+    <string name="avss_language">c</string>
     <boolean name="wv_dialog_series_movie" value="true" />
     <boolean name="dont_show_dialog_after_add" value="true" />
 </map>
