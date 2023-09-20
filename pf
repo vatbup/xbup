@@ -18,7 +18,7 @@
     <boolean name="wv_adding_seasons" value="false" />
     <int name="avss_year" value="2023" />
     <boolean name="auto_send_notifications" value="true" />
-    <long name="core_last_set_alarm_date" value="1695173259294" />
+    <long name="core_last_set_alarm_date" value="1695181722621" />
     <string name="url_shahed">shahid4uu.cam</string>
     <int name="avss_type" value="2" />
     <int name="last_selected_wv_dialog" value="7" />
@@ -30,15 +30,15 @@
     <boolean name="enable_save_mode_core" value="true" />
     <string name="selected_search_dialog">ArabSeed###Moviz Land###Akw###TuTuk Cinema###MyCima###Cima4U</string>
     <int name="avss_state" value="2" />
-    <string name="core_last_vitem">رسالة وداع</string>
+    <string name="core_last_vitem">Han River Police</string>
     <boolean name="wv_dialog_is_none" value="false" />
     <int name="avss_quality" value="2" />
     <boolean name="wv_dialog_phone_pc" value="true" />
     <int name="avss_part" value="1" />
-    <long name="core_last_start_check" value="1695173173624" />
+    <long name="core_last_start_check" value="1695182426078" />
     <int name="core_pause_code" value="0" />
     <string name="faselhd_cookie">cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150; __cfduid=d4e04c068b95411438bd2ec19bf65663a1582391080; _ga=GA1.2.721775836.1582391085; _gid=GA1.2.1022500378.1582391085; _gat_myTracker=1; _gat_gtag_UA_69332622_1=1; cf_clearance=f73f422adc9e321cb8cae6238ba18e6f82218e50-1582391080-0-150</string>
-    <long name="core_last_vitem_date" value="1695173250555" />
+    <long name="core_last_vitem_date" value="1695182428347" />
     <int name="avss_p_control" value="2" />
     <boolean name="core_append" value="true" />
     <int name="avss_e_count" value="-1" />
